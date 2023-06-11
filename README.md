@@ -1,3 +1,3 @@
 # Machine Learning Projects Dropzone
-      Hello, this is will I will be sharing various AI and Machine Learning labs and projects covering 
-      Statisical Modeling, Testing, Visual Analysis and other various relevant coursework.
+      Hello, everything posted is my own custom coded project and lab work. 
+      I will be sharing proof of concepts to showcase my technical capabilites.
